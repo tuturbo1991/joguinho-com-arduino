@@ -7,7 +7,7 @@ As imagens abaixo foram retiradas do tutorial do site [Arduino Inovação](https
 
 ### Visão geral e resistores necessários
 
-[Diagrama geral](tvout_resistores.png)
+![Diagrama geral](tvout_resistores.png)
 
 Dois resistores são necessários na conexão de vídeo:
 
@@ -18,8 +18,8 @@ A ligação do conector de áudio não necessita de resitor, basta ligar um fio 
 
 ### Ligação no Arduino UNO
 
-[Ligação no Arduino UNO](tvout_uno.png)
+![Ligação no Arduino UNO](tvout_uno.png)
 
 ### Ligação no Arduino MEGA
 
-[Ligação no Arduino MEGA](tvout_mega.png)
+![Ligação no Arduino MEGA](tvout_mega.png)
